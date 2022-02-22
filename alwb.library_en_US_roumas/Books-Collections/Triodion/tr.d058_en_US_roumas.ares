@@ -30,8 +30,8 @@ trVE.Stichera03.text = ""
 
 trVE.AposIdiomelon1.mode = misc_en_US_roumas.Mode1
 trVE.AposIdiomelon1.melody = misc_en_US_roumas.Idiomelon
-trVE.AposIdiomelon1.incipit = "…"
-trVE.AposIdiomelon1.text = "How marvelous it is that the Savior so lovingly takes thought for us! Since he knows the things to come as though they were present, he has recorded for us the life of Lazarus and the Rich Man. So, let us reflect on the end of each, and flee from the one’s callousness and misanthropy, but strive after the other’s fortitude and patience. Then we may join him in Abraham’s warm bosom, crying: O just Judge, Lord, glory to You!"
+trVE.AposIdiomelon1.incipit = "How marvelous…"
+trVE.AposIdiomelon1.text = "How marvelous is the Savior's loving disposition toward us! Since He knows the future as though it were present, He has recorded for us the life of Lazarus and the Rich Man. So, let us reflect on the outcome of each; let us flee from the former’s callousness and misanthropy, and strive after the latter’s fortitude and patience, that we may join him in the comfort of Abraham’s bosom, shouting: \"O just Judge, Lord, glory to You!\""
 
 trVE.AposMartyric.mode = misc_en_US_roumas.Mode1
 trVE.AposMartyric.melody = ""

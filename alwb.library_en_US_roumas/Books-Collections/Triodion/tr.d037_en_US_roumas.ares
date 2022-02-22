@@ -32,8 +32,8 @@ trVE.Stichera03.text = ""
 
 trVE.AposIdiomelon1.mode = misc_en_US_roumas.Mode8
 trVE.AposIdiomelon1.melody = misc_en_US_roumas.Idiomelon
-trVE.AposIdiomelon1.incipit = "…"
-trVE.AposIdiomelon1.text = "My mind was restless, and I threw off my Father’s bridle, and cohabitated with beastly sinful thoughts, squandering all my substance prodigally, wretch that I am! I forsook the food that confirms the heart, and fed upon the pleasure that fattens one for a time. O good Father, I pray You, do not close off Your loving affection from me, but open up, take me back like the Prodigal Son, and save me."
+trVE.AposIdiomelon1.incipit = "My mind was restless…"
+trVE.AposIdiomelon1.text = "My mind was restless, and I threw off my Father’s bridle, and cohabited with animalistic sinful thoughts, squandering all I had on loose living, wretch that I am! I forsook the food that confirms the heart, and fed on the pleasures that fill one for a while. O good Father, I pray You, do not close me off from Your loving affection, but open Your heart, take me back like the Prodigal Son, and save me."
 
 trVE.AposMartyric.mode = misc_en_US_roumas.Mode8
 trVE.AposMartyric.melody = ""
