@@ -2,6 +2,7 @@ A_Resource_Whose_Name = tr.d030_en_US_roumas
 
 trDA.commemoration.full = "" // full title of day
 trDA.commemoration.short = ""
+trDA.title = ""
 trDA.insert1 = "" // for use in petitions and dismissal
 trDA.insert2 = "" // for use in petitions and dismissal
 trDA.note = ""
@@ -69,7 +70,7 @@ trMA.C1.poet = //poets_en_US_roumas.Iosif
 
 trMA.C2.poet = //poets_en_US_roumas.Theodorou
 
-trMA.C1.title = //titles_en_US_roumas.KanonATouTriodiou
+trMA.C1.title = //titles_en_US_roumas.ti.Canon1Triodion
 trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_roumas.Ode1
@@ -96,7 +97,7 @@ trMA.Ode1C1T.melody = //he.h.m4_en_US_roumas.TristatasKrataious.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = //titles_en_US_roumas.KanonBTouTriodiou
+trMA.C2.title = //titles_en_US_roumas.ti.Canon2Triodion
 trMA.C2.verse = ""
 
 trMA.Ode1C21.ode = misc_en_US_roumas.Ode1
